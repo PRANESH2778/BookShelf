@@ -1,0 +1,139 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+.container{
+  width: 1280px;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url('image.jpg');
+}
+.Main-heading{
+  color: yellow;
+}
+label{
+  color: antiquewhite;
+}
+.Button-Add{
+  width: 200px;
+  height: 200px;
+  background-color: pink;
+  background-image: url('add2.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.Button-Add button{
+  margin-top: 75px;
+  background-color:transparent;
+  font-size: 20px;
+  font-weight: bold;
+}
+.Button-Add button:hover{
+  background-color: rgb(192, 192, 66);
+}
+.Button-View{
+  width: 200px;
+  height: 200px;
+  margin-top: 10px;
+  background-color: black;
+  background-image: url('view.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.Button-View button{
+  margin-top: 75px;
+  background-color: transparent;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(71, 20, 122);
+}
+.Button-View button:hover{
+  background-color: rgb(203, 203, 149);
+  
+}
+.Back-Button{
+  display: none;
+  margin-bottom: 5px;
+}
+.Back-Button button{
+  background-color: rgb(156, 234, 183);
+}
+.Bookshelf1{
+  display: none;
+  border-radius: 20px;
+  width: 1280px;
+  margin-left: 315px;
+  margin-bottom: 30px;
+  overflow: auto ;
+}
+.UpdateElements{
+  width: 150px;
+}
+
+.booklist{
+  background-color: #d94343;
+}
+.Heading{
+  height: 30px;
+  width: 10px;
+  background-color: rgb(137, 219, 98);
+  color: rgb(12, 12, 8);
+  font-weight: bold;
+  position: sticky;
+}
+.Content{
+  background-color: rgb(136, 196, 194);
+  font-weight: bold;
+}
+.Buttons{
+  display: block;
+}
+.Addbooks{
+  height: 600px;
+  width: 100%;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+.elements{
+  height: 30px;
+  width: 400px;
+  margin-top: 0px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 40px;
+  border-radius: 5px ;
+  border: 2px solid rosybrown;
+  background-color:pink;
+  color: black;
+}
+.Addbutton{
+  width: 400px;
+  border: 3px solid rgb(182, 104, 104);
+  border-radius: 10px;
+  margin-left: 40px;
+  background-color:rgb(88, 88, 163);
+}
+.Edit{
+  border: 3px solid rgb(201, 178, 166);
+  border-radius: 10px;
+  background-color: rgb(199, 87, 35);
+}
+.Delete{
+  border: 3px solid rgb(126, 61, 61);
+  border-radius: 10px;
+  background-color: rgb(27, 168, 163);
+}
+.Update{
+  border: 3px solid rgb(194, 82, 82);
+  border-radius: 10px;
+  background-color: blue;
+}
