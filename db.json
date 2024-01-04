@@ -41,124 +41,14 @@
       "id": 7
     },
     {
-      "Bookname": "",
-      "BookISBNNo": "",
-      "BookCategory": "",
-      "BookRowNo": "",
-      "BookCount": "",
-      "BookCost": "",
+      "Bookname": "Hello",
+      "BookISBNNo": "23",
+      "BookCategory": "Sports",
+      "BookRowNo": "33",
+      "BookCount": "1",
+      "BookCost": "45",
       "BookAvailability": "Available",
-      "id": "95b35e33-6ebe-485e-8590-7ecc403e7287"
-    },
-    {
-      "Bookname": "",
-      "BookISBNNo": "",
-      "BookCategory": "",
-      "BookRowNo": "",
-      "BookCount": "",
-      "BookCost": "",
-      "BookAvailability": "",
-      "id": "5da8dcdd-db1f-4901-a29d-4b067e81fbb6"
-    },
-    {
-      "Bookname": "",
-      "BookISBNNo": "",
-      "BookCategory": "",
-      "BookRowNo": "",
-      "BookCount": "",
-      "BookCost": "",
-      "BookAvailability": "",
-      "id": "9b60e5a2-4695-4e18-82a8-c8bab7bfdc39"
-    },
-    {
-      "Bookname": "",
-      "BookISBNNo": "",
-      "BookCategory": "",
-      "BookRowNo": "",
-      "BookCount": "",
-      "BookCost": "",
-      "BookAvailability": "",
-      "id": "fb5d11b3-df12-4f4c-b64f-7d8c9d5b34e5"
-    },
-    {
-      "Bookname": "",
-      "BookISBNNo": "",
-      "BookCategory": "",
-      "BookRowNo": "",
-      "BookCount": "",
-      "BookCost": "",
-      "BookAvailability": "",
-      "id": "a814537a-fd42-419c-b34d-ab8ed3bdc83b"
-    },
-    {
-      "Bookname": "",
-      "BookISBNNo": "",
-      "BookCategory": "",
-      "BookRowNo": "",
-      "BookCount": "",
-      "BookCost": "",
-      "BookAvailability": "",
-      "id": "9744dc1f-dee3-4461-90b5-8565c1afc3d0"
-    },
-    {
-      "Bookname": "",
-      "BookISBNNo": "",
-      "BookCategory": "",
-      "BookRowNo": "",
-      "BookCount": "",
-      "BookCost": "",
-      "BookAvailability": "",
-      "id": "61669587-0544-4007-af00-77056a1d7109"
-    },
-    {
-      "Bookname": "",
-      "BookISBNNo": "",
-      "BookCategory": "",
-      "BookRowNo": "",
-      "BookCount": "",
-      "BookCost": "",
-      "BookAvailability": "",
-      "id": "7b479262-b5f6-454b-a814-4f93b3da2709"
-    },
-    {
-      "Bookname": "",
-      "BookISBNNo": "",
-      "BookCategory": "",
-      "BookRowNo": "",
-      "BookCount": "",
-      "BookCost": "",
-      "BookAvailability": "",
-      "id": "be1e0699-9133-4695-8d2d-635e51421034"
-    },
-    {
-      "Bookname": "",
-      "BookISBNNo": "",
-      "BookCategory": "",
-      "BookRowNo": "",
-      "BookCount": "",
-      "BookCost": "",
-      "BookAvailability": "",
-      "id": "e0e10a2e-05e2-4d00-95ae-d7bcbec90424"
-    },
-    {
-      "Bookname": "",
-      "BookISBNNo": "",
-      "BookCategory": "",
-      "BookRowNo": "",
-      "BookCount": "",
-      "BookCost": "",
-      "BookAvailability": "",
-      "id": "28c6969d-7dcb-4ebf-9d4f-163f98b7ebfc"
-    },
-    {
-      "Bookname": "",
-      "BookISBNNo": "",
-      "BookCategory": "",
-      "BookRowNo": "",
-      "BookCount": "",
-      "BookCost": "",
-      "BookAvailability": "",
-      "id": "81840a4c-1cf1-44e7-babf-d20d0d480be8"
+      "id": "478bb6dc-44fb-48ce-9cb7-de1ad91b3955"
     }
   ]
 }
